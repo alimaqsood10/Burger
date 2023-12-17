@@ -1,0 +1,54 @@
+.burger-component{
+        height:15px;
+        width:200px;
+      }
+      #top-bun{
+        height:80px;
+        background-color:peru;
+        border-top-right-radius:80px;
+        border-top-left-radius:80px;
+        border-bottom-right-radius:5px;
+        border-bottom-left-radius:5px;
+      }
+      #top-lettuce{
+        background-color:green;
+      }
+      #tomato{
+        background-color:red
+      }
+      #cheese{
+        background-color:yellow;
+      }
+      #pattie{
+        height:15px;
+        background-color:brown;
+      }
+      #bottom-lettuce{
+        background-color:green;
+      }
+      #bottom-bun{
+        height:50px;
+        background-color:peru;
+        border-top-right-radius:5px;
+        border-top-left-radius:5px;
+        border-bottom-right-radius:20px;
+        border-bottom-left-radius:20px;
+      }
+      #burger-text{
+        width:200px;
+        text-align: center;
+      }
+      main {margin-top: 10em;
+            margin-bottom: 10em;
+            margin-left: 30em;
+            margin-right: 5em;}
+            body {
+              background-color: orange;
+            }
+                    h1 { 
+                      padding: 1em 0;
+            color: orangered;
+            background-color: black;
+            text-align: center;
+        }
+      
